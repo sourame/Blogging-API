@@ -1,0 +1,5 @@
+BlogApp.venv
+__pycache__
+*.pyc
+migrations
+BlogApp/data.sqlite
