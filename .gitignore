@@ -1,5 +1,7 @@
-BlogApp.venv
 __pycache__
-*.pyc
 migrations
-BlogApp/data.sqlite
+blgApp.venv
+*.pyc
+code/data.sqlite
+code/db.txt
+code/security.txt
